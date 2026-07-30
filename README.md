@@ -75,7 +75,7 @@ Monitor deposit performance against business targets across branches, regions, a
 ### Dashboard Preview
 
 <p align="center">
-  <img width="100%" src="https://github.com/TusharBagle/HDFC-Bank-Branch-Performance-Power-BI/blob/main/HDFC%20Deposit%20vs%20Target%20Dashboard.png?raw=true">
+  <img width="100%" src="https://github.com/TusharBagle/HDFC-Finance-Dashboard-Power-BI/blob/main/HDFC%20Deposit%20vs%20Target%20Dashboard.png">
 </p>
 
 ### Business Insight
